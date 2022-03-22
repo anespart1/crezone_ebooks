@@ -46,5 +46,6 @@
 | 한국교원대 창의교육거점센터 | 국어, 영어, 사회, 도덕 등 | 구글 코랩 | 코랩으로 SNS 대화 분석하기             | [![GitHub - View ipynb](https://img.shields.io/static/v1?label=GitHub&message=View+ipynb&color=lightgrey&logo=github)](https://github.com/anespart1/educationuse/blob/main/%EC%B9%B4%ED%86%A1%EB%8C%80%ED%99%94%EB%82%B4%EC%97%AD%EC%9C%BC%EB%A1%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EB%8A%94_%EC%9A%B0%EB%A6%AC%EC%9D%98_%EC%96%B8%EC%96%B4%EC%82%AC%EC%9A%A9%EC%8B%A4%ED%83%9C_20210906.ipynb "코랩으로 SNS 대화 분석하기") |
 | 이태희 대표                 | 사회, 과학 등             | 오렌지3   | 오렌지3로 날씨에 따라 모터제어하기     | [![Orange3 - View ows](https://img.shields.io/static/v1?label=Orange3&message=View+ows&color=FF5F1F&logo=github)](https://raw.githubusercontent.com/anespart1/educationuse/main/iot_temperature_modified.ows "오렌지3로 날씨에 따라 모터제어하기") |
 
+4장에 소개된  D.N.A.기반 ePBL 수업 도구 활용 아이디어 관련 자료를 제공하고 있습니다. 링크를 누르시면 관련 소스 코드 확인이 가능합니다.
 
-
+단, **ows는 링크를 누른 후, 반드시 Ctrl+S를 눌러 파일을 '~.ows' 확장자로 다운로드 한 뒤 사용**해주시기 바랍니다.
